@@ -37,7 +37,7 @@ __Author__ = 'Tasi'
 __Copyright__ = 'Copyright (c) 2020'
 
 #动态背景参数设置
-# 最小和最大半径、半径阈值和填充圆的百分比
+# 最小和最大半径、 半径阈值和填充圆的百分比
 radMin = 10
 radMax = 80
 filledCircle = 30  # 填充圆的百分比
