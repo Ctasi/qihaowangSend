@@ -10,7 +10,6 @@ import sys
 import contentModel
 import sentenceModel
 import re
-import loading
 import sip
 import requests
 from lxml import etree

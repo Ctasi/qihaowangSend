@@ -13,8 +13,6 @@ from SendArticle import SendLeft
 import itertools
 import apiAll
 import sip
-import loading
-
 
 class TabWidgetTitle(QTabWidget):
 
